@@ -1,4 +1,4 @@
-// pages/user/index.js
+// pages/pay/index.js
 Page({
 
   /**

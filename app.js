@@ -17,7 +17,5 @@ App({
     onPageNotFound: function(options){
 
     },
-    globalData: {
-        
-    }
+    
 });

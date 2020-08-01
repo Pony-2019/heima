@@ -1,0 +1,93 @@
+{
+  "id": "1980798",
+  "name": "heima22",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "633011",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "689262",
+      "name": "类目 品类 分类 类别",
+      "font_class": "leimupinleifenleileibie",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "5732293",
+      "name": "分类",
+      "font_class": "sort",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "632982",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1012659",
+      "name": "wdeshouchang-weixuanzhong",
+      "font_class": "wdeshouchangweixuanzhong",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "5269217",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6032455",
+      "name": "icon_shouchang_mian",
+      "font_class": "icon_shouchang_mian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6032521",
+      "name": "icon_shouchang_xian",
+      "font_class": "icon_shouchang_xian",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8046844",
+      "name": "gouwuche",
+      "font_class": "gouwuche3",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "8862839",
+      "name": "gouwuche",
+      "font_class": "gouwuche4",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "848585",
+      "name": "gouwuche",
+      "font_class": "gouwuche2",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "975230",
+      "name": "gouwuche",
+      "font_class": "gouwuche",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    }
+  ]
+}
