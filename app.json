@@ -16,13 +16,13 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#E04F3C",
     "navigationBarTitleText": "老马优购",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle":"white"
   },
   "tabBar": {
-    "color": "",
-    "selectedColor": "",
+    "color": "#000000",
+    "selectedColor": "#E04F3C",
     "backgroundColor": "",
     "position": "bottom",
     "borderStyle": "black",

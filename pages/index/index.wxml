@@ -1,6 +1,6 @@
 <!--pages/user/index.wxml-->
 <view class="" hover-class="none" hover-stop-propagation="false">
   首页
-    <text class="iconfont icon-gouwuche1 "></text>
+    <text class="iconfont icon-icon_shouchang_xian "></text>
 </view>
 
